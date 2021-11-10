@@ -36,7 +36,7 @@ Note: The links below will take you away from this page, unless you open them wi
 * Install the package: Go to the [*ForecastR* Package](https://github.com/SalmonForecastR/ForecastR-Package), then build a custom script to automate your analyses (like this [demo script](https://github.com/SalmonForecastR/ForecastR-Releases/blob/main/1_DEMO_SCRIPT.R))
 * Run the app locally: Download a [zip folder](https://github.com/SalmonForecastR/ForecastR-Releases/blob/main/Zipped_Releases/CK_ForecastR_prototype2021_03_08.zip) (Open this link in a new tab, then click the *Download* button),
 	then run the *LaunchGUI.R* script.
-* Examples of data input files can be found [here](https://github.com/SalmonForecastR/ForecastR-Releases/tree/main/SampleData)
+* Examples of data input files can be found [on dropbpx](https://www.dropbox.com/sh/7pdqfmvn16v59uk/AAB52T_T8ItI0uEsjyk6PVXxa?dl=0) or [in this repo](https://github.com/SalmonForecastR/ForecastR-Releases/tree/main/SampleData).
 
 #### I would like to find out more about *ForecastR*
 

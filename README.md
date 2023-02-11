@@ -6,6 +6,26 @@ For details, check out the latest **[ForecastR Report](https://www.google.com/ur
 
 **What's New?**
 
+*Version 2: 2023 Update --------------------------------------------*
+
+This round of work focused on improving the user experience, but we
+also added a new type of forecasting model to both the R package and the app:
+
+* *NoAgeCovar*: For data sets without age classes (e.g., only have total run or escapement) that have covariates,
+fit generalized linear models (GLM) and select the best combination of covariates.
+
+App improvements since the last major release include:
+
+* *dynamic interfaces*
+   - model-specific menus for settings
+   - model-specific diagnostics
+   - data-specific model selections (e.g. on the model selections for comparing and ranking)
+* *Tooltips*: click on/off to display short clarifications for app components, some with links to further information.
+* *Sample data*: sample data sets are now integrated into the app and can be selected from drop down menu
+* *Increased the number of models that can be compared*
+
+
+*Version 1: 2021 Release --------------------------------------------*
 Since the last major release in the spring of 2020,
 the following major updates have been implemented:
 
